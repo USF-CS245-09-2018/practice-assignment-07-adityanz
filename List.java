@@ -1,4 +1,3 @@
-
 public interface List {
 	
 	public void add(Object obj);
